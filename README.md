@@ -24,7 +24,7 @@ This repository contains a PL/SQL script for a company.
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/panoschron97/Company_Project_PLSQL.git
+    git clone https://github.com/GMKAKISTOS/Company_Project_PLSQL.git
     cd Company_Project_PLSQL
     ```
 
